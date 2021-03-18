@@ -7,7 +7,7 @@
         <br>
         <br>
         <img src="https://img.shields.io/badge/relearn__cs-%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91-lightgrey" >
-        <img src="https://img.shields.io/badge/relearn__cs-%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB-brightgreen" >
+        <img src="https://img.shields.io/badge/relearn__cs-Java开发-brightgreen" >
         <img src="https://img.shields.io/badge/relearn__cs-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C-blue" >
          <img src="https://img.shields.io/badge/relearn__cs-%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F-red" >
         <img src="https://img.shields.io/badge/relearn__cs-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90-yellow" >
