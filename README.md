@@ -13,9 +13,11 @@
         <img src="https://img.shields.io/badge/relearn__cs-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90-yellow" >
     </p>
 </p>
+
 # 前言
 本仓库主要就是为了成为更好的自己所建立，会在这里分享自己的学习笔记，同时也会分享自己的一些总结，请读者不要盲目崇拜，此项目只是作者近来的读书、学习笔记总结。
 如果对你有帮助感谢star
+
 ## 计算机组成原理
 ![](https://tx-img.lqcoder.com/2021/03/18/16160539444362/ji-suan-ji-zu-cheng-yuan-li.png)
 
