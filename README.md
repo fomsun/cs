@@ -1,7 +1,7 @@
 
 <p align="center" >
     <img src="https://tx-img.lqcoder.com/2021/03/17/16159503312877/16159503261021.jpg" width="250">
-    <h3 align="center">XXL-JOB</h3>
+    <h3 align="center">relearn_cs</h3>
     <p align="center">
         计算机基础学习总结.Java后端开发学习总结.Spring全家桶学习总结.
         <br>
