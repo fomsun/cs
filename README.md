@@ -19,5 +19,6 @@
 如果对你有帮助感谢star
 
 ## 计算机组成原理
+
 ![](https://tx-img.lqcoder.com/2021/03/18/16160539444362/ji-suan-ji-zu-cheng-yuan-li.png)
 
