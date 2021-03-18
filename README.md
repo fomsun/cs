@@ -6,11 +6,10 @@
         计算机基础学习总结.Java后端开发学习总结.Spring全家桶学习总结.
         <br>
         <br>
-        <br>
-        <img src="https://github.com/xuxueli/xxl-job/workflows/Java%20CI/badge.svg" >
-        <img src="https://github.com/xuxueli/xxl-job/workflows/Java%20CI/badge.svg" >
-        <img src="https://github.com/xuxueli/xxl-job/workflows/Java%20CI/badge.svg" >
-         <img src="https://github.com/xuxueli/xxl-job/workflows/Java%20CI/badge.svg" >
-        <img src="https://github.com/xuxueli/xxl-job/workflows/Java%20CI/badge.svg" >
+        <img src="https://img.shields.io/badge/relearn__cs-%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91-lightgrey" >
+        <img src="https://img.shields.io/badge/relearn__cs-%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB-brightgreen" >
+        <img src="https://img.shields.io/badge/relearn__cs-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C-blue" >
+         <img src="https://img.shields.io/badge/relearn__cs-%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F-red" >
+        <img src="https://img.shields.io/badge/relearn__cs-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90-yellow" >
     </p>
 </p>
