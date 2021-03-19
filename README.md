@@ -20,8 +20,9 @@
 如果对你有帮助感谢star
 ## 日常开发总结
 
-[Java基础面试题](../development-skills/通过shell脚本一键安装JDK8.md)
-[Java基础面试题](../development-skills/通过shell脚本一键安装python3.md)
+[一键安装JDK8](../development-skills/通过shell脚本一键安装JDK8.md)
+
+[一键安装Python3](../development-skills/通过shell脚本一键安装python3.md)
 
 ## 计算机组成原理
 
