@@ -1,14 +1,6 @@
----
-title: 通过shell脚本一键安装JDK8
-tags:
-  - Java
-  - Shell
-  - Linux
-category:
-  - Java
-abbrlink: 63927
-date: 2021-03-19 16:28:10
----
+
+# 通过shell脚本一键安装JDK8
+
 > 难得闲下来，总结一下了最近的脚本，本文主要是给大家介绍一下快速安装jdk的方法
 
 ## 背景
