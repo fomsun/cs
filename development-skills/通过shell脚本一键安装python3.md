@@ -1,19 +1,5 @@
----
-title: 通过shell脚本一键安装python3
-tags:
-  - Python
-  - Shell
-category:
-  - Python
-sidebar:
-  left:
-    sticky: true
-  right:
-    sticky: true
-abbrlink: 62773
-date: 2020-10-10 10:02:57
-cover: https://img.mynamecoder.com/hacking-1685092_640.jpg
----
+# 通过shell脚本一键安装python3
+
 
 >  本文主要介绍python3的安装，通过python3.6.4源码安装，并且兼容python2， 实现python2与python3共存。文中包括python3的安装介绍以及安装脚本。
 
