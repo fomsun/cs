@@ -1,6 +1,6 @@
 
 <p align="center" >
-    <img src="http://img-1258293777.cos.accelerate.myqcloud.com/2021/03/17/16159503312877/16159503261021.jpg" width="250">
+    <img src="http://tx-img.lmsun.cn/2021/03/17/16159503312877/16159503261021.jpg" width="250">
     <h3 align="center">relearn_cs</h3>
     <p align="center">
         计算机基础学习总结.Java后端开发学习总结.Spring全家桶学习总结.
